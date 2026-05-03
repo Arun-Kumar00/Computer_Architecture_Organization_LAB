@@ -6,12 +6,6 @@ In digital electronics, a universal gate is a gate which can implement any Boole
 
 **Theory and Logic:**
 
-NOT Gate: Connect both inputs of a NAND gate together. Y= 
-A⋅A
- = 
-A
- .
-
 AND Gate: Connect the output of a NAND gate to a NAND-based NOT gate. Y= 
 A⋅B
  
